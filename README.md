@@ -23,7 +23,7 @@ The goal is to learn the fundamentals of both fields by starting with simple mod
 - Python 3  
 - NumPy, Pandas, Matplotlib  
 - Scikit-learn, Statsmodels  
-- (Later) PyTorch or TensorFlow  
+- PyTorch, TensorFlow  
 
 ## Disclaimer
 
