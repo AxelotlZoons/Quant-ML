@@ -10,7 +10,7 @@ The goal is to learn the fundamentals of both fields by starting with simple mod
 - Understand model behavior and performance  
 - Build up complexity step by step
   
-## Planned Topics
+## Topics
 
 - Basic return and risk calculations  
 - Linear regression for price prediction  
