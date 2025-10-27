@@ -8,17 +8,8 @@ The goal is to learn the fundamentals of both fields by starting with simple mod
 - Learn the basics of machine learning and quantitative finance  
 - Apply machine learning methods to financial data  
 - Understand model behavior and performance  
-- Build up complexity step by step  
-
-## Project Structure
-
-QuantML/
-├── data/         # Datasets (prices, factors, etc.)
-├── scripts/      # Python scripts for experiments
-├── notebooks/    # Jupyter notebooks for exploration
-├── results/      # Plots and performance outputs
-└── README.md
-
+- Build up complexity step by step
+  
 ## Planned Topics
 
 - Basic return and risk calculations  
