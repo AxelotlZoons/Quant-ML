@@ -33,5 +33,3 @@ Nothing here is financial advice or a trading recommendation.
 ## License
 
 This project is licensed under the MIT License — see the [LICENSE](./LICENSE) file for details.
-
-This is change number one
