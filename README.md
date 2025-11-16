@@ -1,6 +1,6 @@
 # Quant-ML
 
-QuantML is a collection of Notebooks exploring how machine learning can be applied to quantitative finance.  
+Quant-ML is a collection of Notebooks exploring how machine learning can be applied to quantitative finance.  
 The goal is to learn the fundamentals of both fields by starting with simple models and techniques and gradually moving to more complex ones.
 
 ## Goals
