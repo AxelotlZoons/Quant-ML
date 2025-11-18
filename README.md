@@ -25,3 +25,6 @@ Nothing here is financial advice or a trading recommendation.
 ## License
 This project is licensed under the MIT License — see the [LICENSE](./LICENSE) file for details.
 temp change
+
+## Chapter 1: Data
+We: download daily data from the S&P500 based on the tickers given by wikipedia using yfinance
